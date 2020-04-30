@@ -1,0 +1,15 @@
+.mainBox {
+ background-color: rgb(128, 128, 128);
+}
+
+label{
+   font-weight: bold;
+}
+
+table {
+  border: grey solid 1px;
+}
+
+.card{
+  max-width: 30%
+}
